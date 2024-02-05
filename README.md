@@ -1,2 +1,1 @@
-
-Helsinki metropolitan-based engineering student.
+Engineering student based in Helsinki metropolitan-area.
